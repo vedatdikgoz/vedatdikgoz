@@ -5,7 +5,7 @@ Welcome to my profile.
 <br><br>
 ![.NET](https://img.shields.io/badge/dotnet-%230175C2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![.NET CORE](https://img.shields.io/badge/dotnet-%230175C2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET CORE](https://img.shields.io/badge/dotnetcore-%230175C2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <!--
 **vedatdikgoz/vedatdikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
