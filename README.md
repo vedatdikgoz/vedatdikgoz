@@ -13,7 +13,7 @@ Welcome to my profile.
 ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/vuejs-original.svg" alt="dotnet" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/vuejs-original.svg" alt=".net" width="25" height="25" />
 
 <!--
 **vedatdikgoz/vedatdikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
