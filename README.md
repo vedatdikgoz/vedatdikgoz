@@ -14,6 +14,7 @@ Welcome to my profile.
 
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg" alt="c" width="40" height="40"/> </a>
 <!--
 **vedatdikgoz/vedatdikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
