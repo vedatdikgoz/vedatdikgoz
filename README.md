@@ -3,9 +3,12 @@ Welcome to my profile.
 
 :page_with_curl: I'm currently learning:
 <br><br>
-![.NET](https://img.shields.io/badge/dotnet-%230175C2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+	
+![.NET](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-![.NET CORE](https://img.shields.io/badge/dotnetcore-%230175C2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+![.NET CORE](https://img.shields.io/badge/.NETCORE-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <!--
 **vedatdikgoz/vedatdikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
