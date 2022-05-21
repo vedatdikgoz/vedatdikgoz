@@ -4,7 +4,7 @@ Welcome to my profile.
 :page_with_curl: I'm currently learning:
 <br><br>
 	
-![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 ![ENTITY FRAMEWORK](https://img.shields.io/badge/EntityFramework-59666C?style=for-the-badge&logo=EntityFramework&logoColor=white)
 ![RABBITMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
