@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi visitor 👋
+Welcome to my profile.
+
+:page_with_curl: I'm currently learning:
+<br><br>
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <!--
 **vedatdikgoz/vedatdikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
