@@ -12,8 +12,7 @@ Welcome to my profile.
 ![RABBITMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/vuejs-original.svg" alt=".net" width="25" height="25" />
+<a href="" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c" width="40" height="40"/> </a>
 
 <!--
 **vedatdikgoz/vedatdikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
