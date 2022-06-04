@@ -10,9 +10,7 @@ Welcome to my profile.
 <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/> </a>
 <a> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="40" height="40"/> </a>
-
 ![ENTITY FRAMEWORK](https://img.shields.io/badge/EntityFramework-59666C?style=for-the-badge&logo=EntityFramework&logoColor=white)
-![RABBITMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedatdikgoz&show_icons=true&count_private=true" alt="vedatdikgoz" />
