@@ -14,6 +14,7 @@ Welcome to my profile.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedatdikgoz&show_icons=true&count_private=true" alt="vedatdikgoz" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=vedatdikgoz.vedatdikgoz" alt="visitors"></p>
+<p><img src="https://img.shields.io/badge/dynamic/json?color=green&label=visitors&query=value&url=https://api.countapi.xyz/hit/vedatdikgoz.vedatdikgoz" alt="visitors"></p>
+
 
 
