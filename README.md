@@ -14,6 +14,6 @@ Welcome to my profile.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedatdikgoz&show_icons=true&count_private=true" alt="vedatdikgoz" />
-![](https://komarev.com/ghpvc/?username=vedatdikgoz&color=green)
+[](https://komarev.com/ghpvc/?username=vedatdikgoz&color=green)
 
 
