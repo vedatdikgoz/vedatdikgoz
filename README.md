@@ -20,6 +20,9 @@ Welcome to my profile.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedatdikgoz&show_icons=true&count_private=true" alt="vedatdikgoz" />
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=total&url=https://github.com/vedatdikgoz/visitor-count)
+- 🌐 Website: [vdtdkgz.xyz](https://vdtdkgz.xyz/login) LoginCode:3288966435
+- 🔗 LinkedIn: [Vedat Dikgöz](https://linkedin.com/in/vedatdikg%C3%B6z)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=vedatdikgoz.MicroServiceShop_Backend)
 
 
