@@ -20,6 +20,6 @@ Welcome to my profile.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedatdikgoz&show_icons=true&count_private=true" alt="vedatdikgoz" />
 
-![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=total&url=https://www.github.com/vedatdikgoz/visitor-count)
+![Visitor Count](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Visitors&query=total&url=https://github.com/vedatdikgoz/visitor-count)
 
 
