@@ -20,8 +20,6 @@ Welcome to my profile.
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=vedatdikgoz&show_icons=true&count_private=true" alt="vedatdikgoz" />
-
 - 🔗 LinkedIn: [Vedat Dikgöz](https://linkedin.com/in/vedatdikg%C3%B6z)
 
 
